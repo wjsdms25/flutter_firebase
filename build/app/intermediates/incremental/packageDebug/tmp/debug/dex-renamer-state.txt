@@ -1,0 +1,4 @@
+#Mon Nov 04 22:03:20 KST 2019
+base.0=/Users/jeon-ye/AndroidStudioProjects/final_/mdc_100_series_2/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
